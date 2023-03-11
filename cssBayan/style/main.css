@@ -60,6 +60,6 @@ main {
 }
 
 .accordion__radio:checked + .accordion {
-    height: 22rem;
+    height: 19rem;
 }
 
